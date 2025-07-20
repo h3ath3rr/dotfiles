@@ -9,4 +9,4 @@ i use:
 - [_**oh my bash**_](https://ohmybash.nntoan.com/)
 
 ## previews
-<img width="635" height="262" alt="preview" src="https://github.com/user-attachments/assets/edb315ff-dc8f-460c-9a71-37fa5e9417f3" />
+<img width="635" height="262" alt="neofetch_preview_laptop" src="https://github.com/user-attachments/assets/edb315ff-dc8f-460c-9a71-37fa5e9417f3" />
