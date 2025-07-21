@@ -1,0 +1,41 @@
+# my alacritty config
+
+# to get this file:
+# you can get it by curl:
+# curl -LO --output-dir ~/.config/alacritty https://github.com/catppuccin/alacritty/raw/main/catppuccin-mocha.toml
+
+# then you can uncomment the "general.import"
+# general.import = ["$HOME/.config/alacritty/catppuccin/catppuccin-mocha.toml"]
+general.live_config_reload = true
+window.opacity = 1.0
+
+[colors.cursor]
+cursor = "#F5E0DC"
+text = "#1E1E2E"
+
+[colors.search.focused_match]
+background = "#A6E3A1"
+foreground = "#1E1E2E"
+
+[colors.search.matches]
+background = "#A6ADC8"
+foreground = "#1E1E2E"
+
+[colors.selection]
+background = "#F5E0DC"
+text = "#1E1E2E"
+
+[colors.vi_mode_cursor]
+cursor = "#B4BEFE"
+text = "#1E1E2E"
+
+[font]
+size = 12
+
+[font.normal]
+family = "FiraCode Nerd Font"
+style = "Regular"
+
+[window.padding]
+x = 20
+y = 20
