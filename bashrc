@@ -9,8 +9,6 @@ esac
 # For example, "user" or "pc"
 export OSH='/home/<user>/.oh-my-bash'
 
-# Set name of the theme to load. Optionally, if you set this to "random"
-# it'll load a random theme each time that oh-my-bash is loaded.
 OSH_THEME="ht"
 
 OMB_USE_SUDO=true
@@ -33,5 +31,6 @@ plugins=(
 source "$OSH"/oh-my-bash.sh
 
 update_system() {
+ # You should change this if you're using a Debian based distro.
  sudo pacman -Syu && yay -Syu
 }
