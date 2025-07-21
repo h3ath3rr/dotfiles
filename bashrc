@@ -6,6 +6,7 @@ esac
 
 # Path to your oh-my-bash installation.
 # Change the "<user>" thing to your actual username.
+# For example, "user" or "pc"
 export OSH='/home/<user>/.oh-my-bash'
 
 # Set name of the theme to load. Optionally, if you set this to "random"
