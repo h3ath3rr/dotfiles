@@ -9,5 +9,6 @@ i use:
 - [_**oh my bash**_](https://ohmybash.nntoan.com/)
 
 ## previews
-<img width="673" height="273" alt="image" src="https://github.com/user-attachments/assets/2da53af9-18e0-49cd-8a9f-171deb7ad82e" />
+<img width="701" height="307" alt="image" src="https://github.com/user-attachments/assets/1b399907-55c0-48e1-b7af-5685c85d8211" />
+
 
